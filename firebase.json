@@ -1,0 +1,23 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "breedelite-3286a",
+          "appId": "1:791689323108:android:ba5869260a77934680f571",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "breedelite-3286a",
+          "configurations": {
+            "android": "1:791689323108:android:ba5869260a77934680f571",
+            "ios": "1:791689323108:ios:87a6e9af2207524a80f571",
+            "web": "1:791689323108:web:3185c125cf31581780f571"
+          }
+        }
+      }
+    }
+  }
+}

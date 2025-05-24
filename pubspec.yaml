@@ -1,0 +1,39 @@
+name: breedelite
+description: A Very Good App
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ^3.4.0
+
+dependencies:
+  app_ui:
+    path: packages/app_ui
+  bloc: ^8.1.4
+  device_info_plus: ^10.1.0
+  equatable: ^2.0.5
+  firebase_auth: ^5.1.2
+  firebase_core: ^3.2.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+  flutter_launcher_icons: ^0.13.1
+  flutter_localizations:
+    sdk: flutter
+  go_router: ^14.2.7
+  intl: ^0.19.0
+  path: ^1.9.0
+  percent_indicator: ^4.2.3
+
+dev_dependencies:
+  bloc_test: ^9.1.7
+  build_runner: ^2.4.11
+  flutter_test:
+    sdk: flutter
+  json_serializable: ^6.8.0
+  mocktail: ^1.0.4
+  very_good_analysis: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true

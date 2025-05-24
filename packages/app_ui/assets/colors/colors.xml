@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#006C49</color>
+    <color name="support_1">#1A2623</color>
+    <color name="disabled">#A1B0AD</color>
+    <color name="canvas_background_divider">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="secondary_t_1">#7FB9A1</color>
+    <color name="secondary">#46826B</color>
+    <color name="accent_2">#F1C9BC</color>
+    <color name="error">#C24720</color>
+    <color name="on_primary">#EAF8C4</color>
+    <color name="bright_blue">#2E7CF6</color>
+    <color name="vivid_red">#FF3B30</color>
+    <color name="grey_green">#6B8179</color>
+    <color name="grey">#767676</color>
+    <color name="card_1">#EBF4D3</color>
+    <color name="card_2">#E8E6D8</color>
+    <color name="card_3">#A1B0AD</color>
+    <color name="card_4">#F6F6F6</color>
+    <color name="inverse_onsurface">#EFF1ED</color>
+</resources>

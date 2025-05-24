@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791689323108",
+    "project_id": "breedelite-3286a",
+    "storage_bucket": "breedelite-3286a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791689323108:android:ba5869260a77934680f571",
+        "android_client_info": {
+          "package_name": "au.com.breedelite.breedelite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp03CWruRqHk015UPpOgrJVh5YnCFTIiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
