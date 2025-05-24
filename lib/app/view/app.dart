@@ -4,7 +4,7 @@ import 'package:breedelite/app/routes/routes.dart';
 import 'package:breedelite/global/snackbar_event_bus/snackbar_event_bus.dart';
 import 'package:breedelite/global/widgets/event_bus_inherited_widget.dart';
 import 'package:breedelite/global/widgets/snackbar_listener.dart';
-import 'package:breedelite/l10n/l10n.dart';
+import 'package:breedelite/l10n/arb/app_localizations.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 

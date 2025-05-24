@@ -70,17 +70,16 @@ class BreedEliteTheme {
       elevatedButtonTheme: _elevatedButtonTheme,
       outlinedButtonTheme: _outlinedButtonTheme,
       textTheme: _textTheme,
-      dialogBackgroundColor: BreedEliteColors.whiteBackground,
-      dialogTheme: _dialogTheme,
+      //dialogTheme: _dialogTheme,
       tooltipTheme: _tooltipTheme,
       bottomSheetTheme: _bottomSheetTheme,
-      tabBarTheme: _tabBarTheme(colorScheme),
+      //tabBarTheme: _tabBarTheme(colorScheme),
       dividerTheme: _dividerTheme,
       navigationBarTheme: _navigationBarTheme(colorScheme),
       navigationRailTheme: _navigationRailTheme(colorScheme),
       bottomNavigationBarTheme: _bottomNavigationBarTheme(colorScheme),
       floatingActionButtonTheme: _floatingActionButtonTheme(colorScheme),
-      cardTheme: _cardTheme,
+      //cardTheme: _cardTheme,
       inputDecorationTheme: _inputDecorationTheme(colorScheme, _textTheme),
     );
   }
@@ -150,11 +149,10 @@ class BreedEliteTheme {
       elevatedButtonTheme: _elevatedButtonTheme,
       outlinedButtonTheme: _outlinedButtonTheme,
       textTheme: _textTheme,
-      dialogBackgroundColor: BreedEliteColors.whiteBackground,
-      dialogTheme: _dialogTheme,
+      //dialogTheme: _dialogTheme,
       tooltipTheme: _tooltipTheme,
       bottomSheetTheme: _bottomSheetTheme,
-      tabBarTheme: _tabBarTheme(colorScheme),
+      //tabBarTheme: _tabBarTheme(colorScheme),
       dividerTheme: _dividerTheme,
       navigationBarTheme: _navigationBarTheme(colorScheme),
       navigationRailTheme: _navigationRailTheme(colorScheme),
@@ -369,7 +367,7 @@ class BreedEliteTheme {
         (states) {
           var color = const Color(0XFF404943);
           if (states.contains(WidgetState.disabled)) {
-            color = const Color(0XFF191C1A).withOpacity(0.38);
+            color = const Color(0XFF191C1A).withValues(alpha: 0.38);
           }
           return textTheme.bodyMedium!.copyWith(
             height: 1.3,
